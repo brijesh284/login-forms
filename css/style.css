@@ -254,6 +254,13 @@ button {
   }
 }
 /* responsive */
+@media only screen and (min-width: 1500px) {
+  .form-details-wrap {
+    padding: 0px;
+    width: 55%;
+    margin: auto;
+  }
+}
 @media only screen and (max-width: 1400px) {
   .form-details-wrap {
     padding: 0px 30px;
